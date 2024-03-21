@@ -19,13 +19,13 @@
         android:textSize="@dimen/textSizeSmall"
         />
     <TextureView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_width="200dp"
+        android:layout_height="300dp"
         android:text="@string/btn1"
         android:layout_marginTop="@dimen/marginLarge"
         android:textSize="@dimen/textSizeSmall"
-        android:backgroundTint="@color/orange"
-        android:textColor="@color/white"
+        android:background="@color/orange"
+        android:textColor="@color/black"
         android:gravity="center"
         android:padding="@dimen/marginMedium"
         android:layout_margin="@dimen/marginMedium"/>
